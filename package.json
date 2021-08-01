@@ -1,0 +1,15 @@
+{
+  "name": "organizer",
+  "version": "1.0.0",
+  "description": "Organizes the files in a systematic manner",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nodejs","tree","organize","file"],
+  "author": "Ankur Bansal",
+  "license": "ISC",
+  "bin": {
+    "get": "main.js"
+  }
+}
